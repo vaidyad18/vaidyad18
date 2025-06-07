@@ -24,20 +24,3 @@
 
 ---
 
-### 🔥 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaidya-dandriyal&theme=radical&hide_border=true)](https://git.io/streak-stats)
-
----
-
-### 📊 GitHub Stats
-![Vaidya's GitHub stats](https://github-readme-stats.vercel.app/api?username=vaidya-dandriyal&show_icons=true&theme=radical)
-
----
-
-### 📈 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vaidya-dandriyal&layout=compact&theme=radical)
-
----
-
-### 🏆 Holopin Badges
-[![Holopin board](https://holopin.me/vaidya-dandriyal)](https://holopin.io/@vaidya-dandriyal)
